@@ -1,5 +1,6 @@
-.jumbotron{background-image:#2b2d34 url(pics/5.jpg);
+.jumbotron{background-image: url(pics/5.jpg);
         background-size: cover;
         background-position: center;
         background-attachment: scroll;
-        min-height: 70vh;}
+        min-height: 80vh;}
+#footer{height: 30vh}
