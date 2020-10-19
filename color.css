@@ -1,2 +1,5 @@
 .jumbotron{background-image: url(pics/5.jpg);
-        background-size: cover;}
+        background-size: cover;
+        background-position: center;
+        background-attachment: scroll;
+        min-height: 70vh;}
